@@ -1,0 +1,54 @@
+﻿Build started 5/11/2016 9:25:52 AM.
+     1>Project "C:\Users\Chris\Documents\Visual Studio 2013\Projects\Compilers\buffer\buffer\buffer.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Za /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\Assignment1\Assignment1\buffer.c
+         buffer.c
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\sal.h(156): warning C4001: nonstandard extension 'single line comment' was used
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(26): warning C4100: 'symbol' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(26): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(29): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(32): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(36): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(39): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(43): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(47): warning C4100: 'mark' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(47): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(51): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(55): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(59): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(63): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(63): warning C4100: 'fi' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(67): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(71): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(75): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(79): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(83): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(87): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(91): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(95): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(99): warning C4100: 'pBD' : unreferenced formal parameter
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(30): warning C4716: 'b_reset' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(28): warning C4716: 'b_addc' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(41): warning C4716: 'b_size' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(45): warning C4716: 'b_capacity' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(37): warning C4716: 'b_isfull' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(49): warning C4716: 'b_setmark' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(53): warning C4716: 'b_mark' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(61): warning C4716: 'b_incfactor' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(57): warning C4716: 'b_mode' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(69): warning C4716: 'b_isempty' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(73): warning C4716: 'b_eob' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(65): warning C4716: 'b_load' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(81): warning C4716: 'b_print' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(85): warning C4716: 'b_pack' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(89): warning C4716: 'b_rflag' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(93): warning C4716: 'b_retract' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(97): warning C4716: 'b_retract_to_mark' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(101): warning C4716: 'b_getcoffset' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(77): warning C4716: 'b_getc' : must return a value
+     1>c:\users\chris\documents\visual studio 2013\projects\compilers\assignment1\assignment1\buffer.c(24): warning C4715: 'b_create' : not all control paths return a value
+     1>Done Building Project "C:\Users\Chris\Documents\Visual Studio 2013\Projects\Compilers\buffer\buffer\buffer.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.62
